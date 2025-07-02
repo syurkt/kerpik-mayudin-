@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+WELCOME TO SHOP BY MAYUDIN 
 <html lang="id">
 <head>
     <meta charset="UTF-8" />
