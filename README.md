@@ -48,9 +48,7 @@
             </a>
         </div>
     </div>
-</body>
-</html>
-body {
+    body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
@@ -106,7 +104,9 @@ header {
     cursor: pointer;
     margin-top: 1rem;
 }
-
 .product-card button:hover {
     background-color: #45a049;
 }
+
+</body>
+</html>
